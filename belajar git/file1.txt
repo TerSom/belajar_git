@@ -1,0 +1,2 @@
+menambah text1.txt
+Halo
