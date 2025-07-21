@@ -2,3 +2,4 @@ menambah text1.txt
 Halo
 halo
 saya ganti
+saya gantiii feature/b
